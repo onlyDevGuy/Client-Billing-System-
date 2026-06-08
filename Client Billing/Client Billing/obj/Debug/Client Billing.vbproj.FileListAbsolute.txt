@@ -1,0 +1,22 @@
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\bin\Debug\Client Billing.exe.config
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\bin\Debug\Client Billing.exe
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\bin\Debug\Client Billing.pdb
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\bin\Debug\Client Billing.xml
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client_Billing.Resources.resources
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client Billing.vbproj.GenerateResource.Cache
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client Billing.exe
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client Billing.xml
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client Billing.pdb
+c:\users\sizwe\onedrive\documents\visual studio 2013\Projects\Client Billing\Client Billing\obj\Debug\Client_Billing.frmClientBilling.resources
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\bin\Debug\Client Billing.exe.config
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client Billing.exe
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client Billing.xml
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client Billing.pdb
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\bin\Debug\Client Billing.exe
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\bin\Debug\Client Billing.pdb
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\bin\Debug\Client Billing.xml
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client Billing.vbprojResolveAssemblyReference.cache
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client_Billing.frmClientBilling.resources
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client_Billing.Resources.resources
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\obj\Debug\Client Billing.vbproj.GenerateResource.Cache
+C:\Users\sizwe\OneDrive\Documents\Visual Studio 2013\Projects\VB.NET Projects\Client Billing\Client Billing\bin\Debug\clients.txt.txt
